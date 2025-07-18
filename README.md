@@ -58,11 +58,6 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
    - [**User Avatar Changer**: `591/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/User%20Avatar%20Changer%20-%20591)
    - [**Console Message Editor**: `594/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Console%20Message%20Editor%20-%20594)
    - [**FiveM Cache Remover**: `630/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/FiveM%20Cache%20Remover%20-%20630)
-<!--   - [**Plugins Installer - License Extension**: `631/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Plugins%20Installer%20-%20License%20Extension%20-%20631)
-   - [**Versions Changer - License Extension**: `632/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Versions%20Changer%20-%20License%20Extension%20-%20632)
-   - [**Cloud Servers - License Extension**: `633/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Cloud%20Servers%20-%20License%20Extension%20-%20633)
-   - [**Modpacks Installer - License Extension**: `634/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Modpacks%20Installer%20-%20License%20Extension%20-%20634)
-   - [**Mods Installer - License Extension**: `635/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Mods%20Installer%20-%20License%20Extension%20-%20635) -->
    - [**Subdomains Wizard**: `636/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Subdomains%20Wizard%20-%20636)
 
 2. **autoinstaller/**:  
