@@ -30,7 +30,7 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
 
    - [**PhpMyAdmin Button**: `197/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/PhpMyAdmin%20Button%20-%20197)
    - [**Auto Update**: `204/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Auto%20Update%20-%20204)
-   - [**TxAdmin Button**: `213/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/TxAdmin%20Button%20-%20213)
+   - [**TxAdmin Button**: `213/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/TxAdmin%20Button%20-213)
    - [**Minecraft Mods Installer**: `257/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Minecraft%20Mods%20Installer%20-%20257)
    - [**TxAdmin Auto Setup**: `267/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/TxAdmin%20Auto%20Setup%20-%20267)
    - [**Artifacts Changer**: `271/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Artifacts%20Changer%20-%20271)
@@ -57,13 +57,13 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
    - [**Cloud Servers**: `585/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Cloud%20Servers%20-%20585)
    - [**User Avatar Changer**: `591/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/User%20Avatar%20Changer%20-%20591)
    - [**Console Message Editor**: `594/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Console%20Message%20Editor%20-%20594)
-   - [**FiveM Cache Remover**: `630/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/FiveM%20Cache%20Remover%20-%20630)
-   - [**Plugins Installer - License Extension**: `631/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Plugins%20Installer%20-%20License%20Extension%20-%20631)
-   - [**Versions Changer - License Extension**: `632/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Versions%20Changer%20-%20License%20Extension%20-%20632)
-   - [**Cloud Servers - License Extension**: `633/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Cloud%20Servers%20-%20License%20Extension%20-%20633)
-   - [**Modpacks Installer - License Extension**: `634/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Modpacks%20Installer%20-%20License%20Extension%20-%20634)
-   - [**Mods Installer - License Extension**: `635/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Mods%20Installer%20-%20License%20Extension%20-%20635)
-   - [**Subdomains Wizard**: `636/`](https://github.com/Bagou450-Fixed/pterodactyl-addons/tree/main/addons/Subdomains%20Wizard%20-%20636)
+   - [**FiveM Cache Remover**: `630/`](
+   - [**Plugins Installer - License Extension**: `631/`]
+   - [**Versions Changer - License Extension**: `632/`]
+   - [**Cloud Servers - License Extension**: `633/`]
+   - [**Modpacks Installer - License Extension**: `634/`]
+   - [**Mods Installer - License Extension**: `635/`]
+   - [**Subdomains Wizard**: `636/`]
 
 2. **autoinstaller/**:  
    Contains configuration files (`.json`) and JavaScript files to automate the installation of add-ons.
